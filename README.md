@@ -21,3 +21,9 @@ Doğrulama: `sha256sum LISTE.sha256`
 ```
 
 Doğrulama: `sha256sum SINAMA_ONCESI_KAYIT.sha256`
+
+**Ek.** Sınama dosyasını hazırlayan betiğin ilk sürümü kendi denetiminde durdu ve dosya yazmadı; düzeltilmiş sürümün ve durma kaydının SHA-256'ları `SINAMA_ONCESI_KAYIT_EK.sha256` dosyasındadır. Bu ek de sınama ölçüm dosyası üretilmeden önce buraya kondu (liste saati 20 Kasım 2026, 07:54:42, UTC+3). Ekin kendi SHA-256'sı:
+
+```
+54c65bbc671e86a1604167e08f193ef01ecf2265472d28a56d401130fe534aa1
+```
