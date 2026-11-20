@@ -1,0 +1,6 @@
+# Ek: hazirlik betiginin 2. surumu; liste yazildi: 2026-11-20 07:54:42 +0300
+# Ilk surum (sinama_hazirla.py) kendi yol denetiminde durdu ve dosya yazmadi (sinama_hazirla_surum1_durdu.log).
+# Sinama olcum dosyasi bu liste yazilirken henuz uretilmemisti.
+4ef3b8fbb6b8c0b659b9f6883df6078e5234f591a8bb51c9c99d84ab7a089d13 *SINAMA_ONCESI_KAYIT.sha256
+3d2b65de010a31dd6f8a369836f454ef4a0a5d1d9e3e35a086f707c2cc7692ea *sinama_hazirla_surum1_durdu.log
+01ff7f3ecc8bc8e42f2485f6c562194cc5b2f3ed3928c184e8cec06b9023df8a *sinama_hazirla_surum2.py
