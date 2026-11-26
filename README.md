@@ -39,3 +39,15 @@ Doğrulama: `sha256sum SINAMA_ONCESI_KAYIT.sha256`
 ```
 
 Doğrulama: `sha256sum ikinci-calisma/LISTE.sha256`
+
+## İkinci çalışma: ek çözümleme planı
+
+`ikinci-calisma/EK_PLAN_LISTE.sha256`, ikinci çalışmanın ek çözümleme planının ve dayanak dosyalarının (planın bağımsız denetimi ve yanıtı, kararlar, ilk planın listesi) SHA-256 listesidir. Ek plan, verinin direnç değerleri hesaplanmadan yazıldı ve bağımsız bir denetimden sonra sabitlendi. Liste 26 Kasım 2026, 10:10:03'te (UTC+3) yazıldı ve çözümleme gerçek veride çalıştırılmadan önce bu depoya kondu.
+
+`ikinci-calisma/EK_PLAN_LISTE.sha256` dosyasının kendi SHA-256'sı:
+
+```
+0dd60a06221766bc36cf1ee6cb76bf887c223888fac332be29a7b7620c5e7b07
+```
+
+Doğrulama: `sha256sum ikinci-calisma/EK_PLAN_LISTE.sha256`
