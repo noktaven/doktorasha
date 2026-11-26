@@ -51,3 +51,15 @@ Doğrulama: `sha256sum ikinci-calisma/LISTE.sha256`
 ```
 
 Doğrulama: `sha256sum ikinci-calisma/EK_PLAN_LISTE.sha256`
+
+## İkinci çalışma: çözümleme kodu
+
+`ikinci-calisma/KOD_LISTE.sha256`, ikinci çalışmanın çözümleme kodunun ve dayanak dosyalarının (veri katmanı, istatistik ve model betikleri, tek çalıştırma betiği, biçim ön denetimi betiği, çalıştırma betiği, sahte veri üreteci ve sahte sınama çıktıları, uygulama notları, kodun bağımsız denetimi ve yanıtı, denetçinin yeniden hesap betikleri ve çıktıları, iki planın listeleri) SHA-256 listesidir. Kod yalnız sahte veriyle çalıştırıldı ve bağımsız bir denetimden sonra sabitlendi. Liste 26 Kasım 2026, 10:10:20'te (UTC+3) yazıldı ve kod gerçek veride çalıştırılmadan önce bu depoya kondu; o sırada verinin direnç değerleri hesaplanmamıştı.
+
+`ikinci-calisma/KOD_LISTE.sha256` dosyasının kendi SHA-256'sı:
+
+```
+a26c666706b9b59b58a598d8ca0f1f3cee47872e2dfb5391fcc8d1c425970ec7
+```
+
+Doğrulama: `sha256sum ikinci-calisma/KOD_LISTE.sha256`
