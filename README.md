@@ -63,3 +63,15 @@ a26c666706b9b59b58a598d8ca0f1f3cee47872e2dfb5391fcc8d1c425970ec7
 ```
 
 Doğrulama: `sha256sum ikinci-calisma/KOD_LISTE.sha256`
+
+## İkinci çalışma: sapma 1 (çalıştırmadan sonra düzeltme)
+
+Sabitlenen kod gerçek veride bir kez çalıştırıldı. Çıktıda, direnç ölçüsünün bir kuralının verinin kayıt biçimine duyarlı olduğu görüldü: ölçü, direnç artışının ölçümü olarak geçersizdi. `ikinci-calisma/SAPMA1_LISTE.sha256`, bu durumun kaydıdır: sapma dosyası (ne görüldü, teşhis, değişen iki kural, sonuçların nasıl okunacağı), teşhis betikleri ve çıktıları, düzeltilmiş kod ve ilk kodla farkı, sahte sınama çıktıları, bağımsız denetim ve yanıtı ile **ilk çalıştırmanın bütün çıktılarının** SHA-256 listesi. İlk çıktı olduğu gibi saklanır ve yayımlanır. Liste 26 Kasım 2026, 10:51:51'te (UTC+3) yazıldı ve düzeltilmiş kod gerçek veride çalıştırılmadan önce bu depoya kondu. Düzeltilmiş sonuçlar "çalıştırmadan sonra düzeltildi" etiketini taşır.
+
+`ikinci-calisma/SAPMA1_LISTE.sha256` dosyasının kendi SHA-256'sı:
+
+```
+bf07c8be6cc067fef9a5287e889ba72aaf641069f0145fc6e0aef31511c62865
+```
+
+Doğrulama: `sha256sum ikinci-calisma/SAPMA1_LISTE.sha256`
